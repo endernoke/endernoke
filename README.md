@@ -16,7 +16,6 @@ I strongly believe that the best way to learn something new is through hands-on 
 ---
 
 ## 🌟 Fun Fact
-
 - I love classical Chinese 🤓
   ```
   是為三遍
@@ -24,6 +23,8 @@ I strongly believe that the best way to learn something new is through hands-on 
   云云
   ```
 
+- How my code works:
+  ![cow walking gif](cow-walking.gif)
 ---
 
 ## 📬 Let's Connect!
