@@ -1,8 +1,14 @@
 # Hello World! 👋
 
-I'm James Zheng, a high school student passionate about technology and currently diving into machine learning and artificial intelligence. I enjoy building software solutions to address social challenges and make a positive impact, particularly for disadvantaged groups.
+I'm James Zheng, a high school student passionate about technology and currently diving into machine learning and artificial intelligence. I enjoy building software solutions to address social challenges and make a positive impact.
 
 I strongly believe that the best way to learn something new is through hands-on experience, which is why I love creating projects to explore and develop my skills.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/endernoke/endernoke/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/endernoke/endernoke/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/endernoke/endernoke/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
@@ -15,24 +21,12 @@ I strongly believe that the best way to learn something new is through hands-on 
 
 ---
 
-## 🌟 Fun Fact
-- I love classical Chinese 🤓
-  ```
-  是為三遍
-      吾有一言 曰「「問天地好在」」 書之
-  云云
-  ```
-
-- How my code works:
-  ![cow walking gif](cow-walking.gif)
 ---
 
 ## 📬 Let's Connect!
 
-Feel free to reach out to me for projects or if you just want to chat! I'm always excited to meet like-minded people.
+Feel free to reach out to me for projects or if you just want to chat! I'm always excited to connect with like-minded people.
 
 - [LinkedIn](https://www.linkedin.com/james-zheng-zi)  
 - [Discord](https://discordapp.com/users/739442219731386428)
 - Email: zhengzijames@gmail.com
-
----
