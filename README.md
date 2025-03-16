@@ -20,11 +20,14 @@ I'm James Zheng, a high school student passionate about technology and currently
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+### Full-Stack Frameworks
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-26a699?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-6DB33F?style=for-the-badge&logo=express&logoColor=white)
+![wxWidgets](https://img.shields.io/badge/wxWidgets-3DDC84?style=for-the-badge&logo=wx&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-FF69B4?style=for-the-badge&logo=react&logoColor=white)
+![Electron.js](https://img.shields.io/badge/Electron-4B8BF5?style=for-the-badge&logo=electron&logoColor=white)
+
 
 ---
 
@@ -34,6 +37,7 @@ I'm James Zheng, a high school student passionate about technology and currently
 
 | Name | Description | Deployment | Technologies | Repository | Status |
 |------|-------------|:----------:|--------------|------------|:------:|
+| VSCode Cheerleader | Supercharge your dev experience with an anime coding companion. | -- | JavaScript, Electron.js, Live2D Cubism | Coming soon | WIP |
 | Instagram CLI | The ultimate weapon against brainrot - Chat on Instagram in the terminal. | [PyPI package](https://pypi.org/project/instagram-cli/) | Python, Typer, Curses | [instagram-cli](https://github.com/supreme-gg-gg/instagram-cli/) | Release \| WIP |
 | LinkedIngest | Turn LinkedIn profiles into AI-friendly text ingests. | [linkedingest.onrender.com](https://linkedingest.onrender.com) | Python, React, FastAPI | [linkedingest](https://github.com/endernoke/linkedingest/) | Beta \| WIP |
 | Eidos | Built a complete and modularised deep learning library from scratch in C++ with MLP, CNN, RNN. | -- | C++, Eigen | [eidos](https://github.com/supreme-gg-gg/eidos/) | Release \| Completed |
