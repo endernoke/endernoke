@@ -4,6 +4,8 @@ I'm James Zheng, a Grade 11 student in Hong Kong passionate about technology and
 
 Outside of coding, I love exploring literature, history, economics, and finance.
 
+[![endernoke's GitHub stats](https://github-readme-stats.vercel.app/api?username=endernoke&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/endernoke/endernoke/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/endernoke/endernoke/blob/output/github-contribution-grid-snake.svg" />
@@ -38,9 +40,10 @@ Outside of coding, I love exploring literature, history, economics, and finance.
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-4FC08D?style=for-the-badge&logo=vite&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-FF69B4?style=for-the-badge&logo=react&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-4FC08D?style=for-the-badge&logo=vite&logoColor=white)
 ![wxWidgets](https://img.shields.io/badge/wxWidgets-3DDC84?style=for-the-badge&logo=wx&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-4B8BF5?style=for-the-badge&logo=electron&logoColor=white)
 
