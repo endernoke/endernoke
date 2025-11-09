@@ -1,18 +1,10 @@
 # Hello World! 👋
 
-I'm James Zheng, a Grade 11 student in Hong Kong passionate about technology and currently diving into machine learning. I thrive on collaborating with others to push the boundaries of technology and address social challenges.
+I'm James Zheng, a Grade 12 student in Hong Kong passionate about technology and currently diving into machine learning. I thrive on collaborating with others to push the boundaries of technology and address social challenges.
 
 Outside of coding, I love exploring literature, history, economics, and finance.
 
 [![endernoke's GitHub stats](https://github-readme-stats.vercel.app/api?username=endernoke&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/endernoke/endernoke/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/endernoke/endernoke/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/endernoke/endernoke/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
 
 ## 🛠️ Skills
 
@@ -20,11 +12,12 @@ Outside of coding, I love exploring literature, history, economics, and finance.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Backend
 
@@ -44,23 +37,23 @@ Outside of coding, I love exploring literature, history, economics, and finance.
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-FF69B4?style=for-the-badge&logo=react&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
-![wxWidgets](https://img.shields.io/badge/wxWidgets-3DDC84?style=for-the-badge&logo=wx&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-4B8BF5?style=for-the-badge&logo=electron&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
+![wxWidgets](https://img.shields.io/badge/wxWidgets-3DDC84?style=for-the-badge&logo=wx&logoColor=white)
 
-### Other Tools and Technologies
+### AI/ML & Data Science
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+<details>
+<summary>Projects</summary>
 
----
+## 🚀 Recent Projects
 
-## 🚀 Projects
-
-### Recent Projects
+Note: This list is not regularly updated.
 
 | Name | Description | Deployment | Technologies | Repository | Status |
 |------|-------------|:----------:|--------------|------------|:------:|
@@ -70,16 +63,8 @@ Outside of coding, I love exploring literature, history, economics, and finance.
 | LinkedIngest | Turn LinkedIn profiles into AI-friendly text ingests. | [linkedingest.onrender.com](https://linkedingest.onrender.com) | Python, React, FastAPI | [linkedingest](https://github.com/endernoke/linkedingest/) | Beta |
 | Eidos | Built a complete and modularised deep learning library from scratch in C++ with MLP, CNN, RNN. | -- | C++, Eigen | [eidos](https://github.com/supreme-gg-gg/eidos/) | Maintenance |
 
-### Project Ideas
-
-I am looking for collaborators for the following projects:
-
-| Name | Description | Technologies |
-|------|-------------|--------------|
-| Study App | HKDSE exam-oriented study webapp with a full suite of productivity features: question banks, AI-assisted notes & quizes, study analytics | TBC |
-| AI Quant Agent | Autonomous stock-trading agent for educational purposes | TBC |
-
-Please drop me a message on LinkedIn or Discord if you are interested in collaborating. I'm open to collaboration on any cool projects.
+Please hit me up on LinkedIn or Discord if you are interested in collaborating. I'm open to collaboration on any cool projects.
+</details>
 
 ---
 
